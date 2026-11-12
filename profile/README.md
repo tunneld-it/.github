@@ -1,4 +1,4 @@
-# tunneld-it 🍕
+# tunneld-it
 
 **Slice and share your machine.** Put what's running on it on a public URL: a
 port, a shell, a coding agent, a container, or your whole workspace. One
